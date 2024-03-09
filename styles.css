@@ -3,8 +3,6 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 50px;
-}
-body {
     background-image: url("https://i.pinimg.com/originals/40/c1/48/40c1482a64c1906178c8bb51c96444ef.gif");
     background-repeat: no-repeat;
     background-position: center center;
@@ -17,12 +15,12 @@ body {
 }
 
 h1 {
-    color: #800080; /* purple */
+    color: #e998e9; /* purple */
     font-size: 50px;
 }
 
 p {
-    color: #333;
+    color: #ffffff;
     font-size: 24px;
 }
 
@@ -31,4 +29,7 @@ img {
     height: auto;
     display: block;
     margin: 0 auto;
+    border-radius: 50%;
+    height: 200px;
+    object-fit: cover;
   }
