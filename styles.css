@@ -1,0 +1,23 @@
+body {
+    background-color: #ffc0cb; /* light pink */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #800080; /* purple */
+    font-size: 50px;
+}
+
+p {
+    color: #333;
+    font-size: 24px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
